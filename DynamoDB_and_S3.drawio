@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T05:09:57.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="a1Zw6AHWbTEoQk-as825" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-10T05:10:43.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="SKnPPHiYCjTbGqEE4RCo" version="24.3.1" type="github">
   <diagram name="Page-1" id="oR6-k9Qzn_e4d0XQ-Gmf">
     <mxGraphModel dx="786" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -39,6 +39,18 @@
         </mxCell>
         <mxCell id="2XYHm4z616x2IMGlOGHW-9" value="Dynamo DB&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="218" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2XYHm4z616x2IMGlOGHW-10" value="Writes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="128" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2XYHm4z616x2IMGlOGHW-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="330" as="sourcePoint" />
+            <mxPoint x="590" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2XYHm4z616x2IMGlOGHW-12" value="API for Object Metadata&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="511" y="343" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
