@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T05:39:10.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="aTAhs5iCKcPmDGg4zsDt" version="24.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-19T05:41:34.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="m70H4nEjkYI3WAaGqfbG" version="24.4.3" type="github">
   <diagram name="Page-1" id="2Gcj2FD3DP5YqZa1Dc7D">
     <mxGraphModel dx="786" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,6 +45,24 @@
             <mxPoint x="398" y="200" as="sourcePoint" />
             <mxPoint x="530" y="200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jWFwVhdiCvqsbsjRNmU2-13" value="" style="html=1;strokeWidth=2;outlineConnect=0;dashed=0;align=center;fontSize=8;fillColor=#c0f5a9;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.eip.aggregator;" vertex="1" parent="1">
+          <mxGeometry x="550" y="148" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jWFwVhdiCvqsbsjRNmU2-14" value="Aggregate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="238" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jWFwVhdiCvqsbsjRNmU2-15" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Dashboard2.svg;" vertex="1" parent="1">
+          <mxGeometry x="760" y="169" width="68" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jWFwVhdiCvqsbsjRNmU2-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.039;entryY=0.576;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jWFwVhdiCvqsbsjRNmU2-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="200" as="sourcePoint" />
+            <mxPoint x="750" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jWFwVhdiCvqsbsjRNmU2-17" value="Analyze" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="755" y="218" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
